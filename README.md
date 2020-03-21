@@ -1,0 +1,1 @@
+This Shiny Web App provides information on violent crime rates by US States in 1973. The three categories of violent crimes are murder, assault, and rape. The data also includes percentage of Urban Population by States.  Users can choose which crime or which state they're interested in investigating, and the app will display responding summary table and graphs.
